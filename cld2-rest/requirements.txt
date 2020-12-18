@@ -1,0 +1,5 @@
+urllib3==1.22
+pycld2==0.31
+Flask==0.12.2
+Flask_RESTful==0.3.7
+beautifulsoup4==4.9.3
